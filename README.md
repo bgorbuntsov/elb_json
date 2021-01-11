@@ -11,7 +11,7 @@ After getting these properties, for each load balancer, a json file is generated
 The ID and BIOS-UUID fields are to be filled with the combination of load balancer name and AWS account id (example "test-load-balancer-123456789")
 
 ## Prerequisites
-1. AWS credentials file
+AWS credentials file
 
 ## Usage
 
