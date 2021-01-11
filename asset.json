@@ -1,0 +1,27 @@
+{
+  "assets":[
+     {
+        "id":"42960753-9223-4f70-95ee-01a90cae596d",
+        "bios-uuid":"42960753-9223-4f70-95ee-01a90cae596d",
+        "name":"ELB-Images-Classic",
+        "addresses":[
+           "10.101.25.98",
+           "10.101.35.246"
+        ],
+        "labels":[
+           {
+              "key":"Role",
+              "value":"Load-balancer"
+           },
+           {
+              "key":"Environment",
+              "value":"Production"
+           },
+           {
+              "key":"Application",
+              "value":"Image-server"
+           }
+        ]
+     }
+  ]
+}
