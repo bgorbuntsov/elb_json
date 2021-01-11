@@ -15,7 +15,7 @@ The ID and BIOS-UUID fields are to be filled with the combination of load balanc
 
 ## Usage
 
-*./scan.py <vpc-id>*
+*./scan.py vpc-id*
 
 Running without parameters shows all VPCs.
 
